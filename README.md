@@ -66,7 +66,7 @@ The script is organized into the following sections:
 
 If you use this code or methodology in your research, please cite our paper:
 
-> [Insert Authors]. Beyond Aggregate Volume: Accelerometer-Derived Activity Phenotypes Reveal a Decoupling of Lean Mass and Function. *[Journal Name]*. [Year].
+> [Insert Authors]. Beyond Aggregate Volume: Accelerometer-Derived Activity Phenotypes Reveal a Decoupling of Lean Mass and Function: A Cross-Sectional Study. *[Journal Name]*. [Year].
 
 ## 📜 License
 
